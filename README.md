@@ -27,7 +27,7 @@ This project uses Node and Inquirer to generate an SVG image file based on user 
 ## Usage
   The application is deployed at the following location:
   - This application is not being deployed; a video walkthrough can be found at:
-  - https://drive.google.com/file/d/1qfgSbE-vE_mvjcRuIjfuxvKajbt2SofM/view
+    https://drive.google.com/file/d/1qfgSbE-vE_mvjcRuIjfuxvKajbt2SofM/view
 
   The location of the GitHub repository is:
   - https://github.com/espolhemus/SVG_Logo_Maker
