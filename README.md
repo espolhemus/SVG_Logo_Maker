@@ -29,7 +29,7 @@ This project uses Node and Inquirer to generate an SVG image file based on user 
   - This application is not being deployed; a video walkthrough can be found at: (https://drive.google.com/file/d/1qfgSbE-vE_mvjcRuIjfuxvKajbt2SofM/view)
 
   The location of the GitHub repository is:
-  - https://github.com/espolhemus/README_Generator
+  - https://github.com/espolhemus/SVG_Logo_Maker
 
 ## Credits
   The following individuals contributed to this project:
